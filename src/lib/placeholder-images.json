@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "doc1",
+      "description": "Photo of Dr. Evelyn Reed",
+      "imageUrl": "https://picsum.photos/seed/doc1/400/400",
+      "imageHint": "woman doctor"
+    },
+    {
+      "id": "doc2",
+      "description": "Photo of Dr. Samuel Chen",
+      "imageUrl": "https://picsum.photos/seed/doc2/400/400",
+      "imageHint": "man doctor"
+    },
+    {
+      "id": "doc3",
+      "description": "Photo of Dr. Isabella Rossi",
+      "imageUrl": "https://picsum.photos/seed/doc3/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "doc4",
+      "description": "Photo of Dr. Marcus Thorne",
+      "imageUrl": "https://picsum.photos/seed/doc4/400/400",
+      "imageHint": "doctor smiling"
+    },
+    {
+      "id": "doc5",
+      "description": "Photo of Dr. Anya Sharma",
+      "imageUrl": "https://picsum.photos/seed/doc5/400/400",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "doc6",
+      "description": "Photo of Dr. Liam O'Connell",
+      "imageUrl": "https://picsum.photos/seed/doc6/400/400",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "doc7",
+      "description": "Photo of Dr. Chloe Dubois",
+      "imageUrl": "https://picsum.photos/seed/doc7/400/400",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "doc8",
+      "description": "Photo of Dr. Kenji Tanaka",
+      "imageUrl": "https://picsum.photos/seed/doc8/400/400",
+      "imageHint": "asian man"
+    }
+  ]
+}
